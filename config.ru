@@ -1,3 +1,2 @@
-require 'sinatra'
-require './app/while_we_wait.rb'
+require './application'
 run Sinatra::Application
